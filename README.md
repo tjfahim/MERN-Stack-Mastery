@@ -34,7 +34,7 @@ root/
 
 🚀 Getting Started
 1. Clone the repo
-git clone https://github.com/your-username/crud-app.git
+git clone https://github.com/tjfahim/MERN-Stack-Mastery.git
 
 cd crud-app
 
